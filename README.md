@@ -11,7 +11,7 @@ FleetAfya is a synthetic data and machine learning project focused on electric v
 
 - `Model.ipynb`: Jupyter notebook with data generation, model training, and evaluation
 - `requirements.txt`: Python dependencies
-- `streamlit_app.py`: Streamlit web app (if present)
+- `streamlit_app.py`: Streamlit web app
 - `soh_xgb_africa.joblib`: Saved XGBoost model
 - `scaler_africa.joblib`: Saved scaler
 - `synthetic_africa_soh.csv`: Generated synthetic dataset
